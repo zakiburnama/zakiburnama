@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenpoless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Zaki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenpoless)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenpoless)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
