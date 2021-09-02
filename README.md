@@ -7,18 +7,12 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenpoless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenpoless&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
 [twitter]: https://twitter.com/
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/zakiburnama
 [linkedin]: https://linkedin.com/in/
