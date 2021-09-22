@@ -15,4 +15,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/zakiburnama
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/zaki-burnama
