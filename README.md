@@ -3,7 +3,7 @@
 I am Google Bangkit Graduate of 2022 at Mobile Development Path and having earned the [Associate Android Developer Google Certification][aad]. Additionally, I have valuable experience as a Teaching Assistant in the Computer Science laboratory.
 
 ## 🔭 I’m currently working on:
-### Learning How to Solve Rubik's Cube
+### RubikWak - Learn How to Solve Rubik's Cube App
 - Description: making Rubiks Cube Solving Android App that can give algorithm to solve user rubik's by scanning it.
 - Technology: Android Studio, Java, OpenCv
 
