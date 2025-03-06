@@ -21,7 +21,7 @@ I am Google Bangkit Graduate of 2022 at Mobile Development Path and having earne
 
 ## 🚀 My GitHub Stats
 
-![Zaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiburnama&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&count_private=false,issues,contribs&theme=radical) 
+<!-- ![Zaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiburnama&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&count_private=false,issues,contribs&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiburnama&layout=compact&theme=radical)
 
