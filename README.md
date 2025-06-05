@@ -21,6 +21,8 @@ I am Google Bangkit Graduate of 2022 at Mobile Development Path and having earne
 - Data Science Stuff <img height="40" src="https://skillicons.dev/icons?i=r,python,matlab" />
 - Bash <img height="40" src="https://skillicons.dev/icons?i=bash" />
 - Kotlin Multiplatform (KMP) and Compose Multiplatform <img height="40" src="https://skillicons.dev/icons?i=kotlin" /> ![compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
+- Ktor <img height="40" src="https://skillicons.dev/icons?i=ktor" />
+- Java Springboot <img height="40" src="https://skillicons.dev/icons?i=java,spring" />
 
 ## 🔗 Connect with me:
 
