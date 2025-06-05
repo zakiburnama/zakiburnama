@@ -51,8 +51,9 @@ I am Google Bangkit Graduate of 2022 at Mobile Development Path and having earne
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/zakiburnama/zakiburnama/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
 
